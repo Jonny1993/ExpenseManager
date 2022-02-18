@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string name="days_gone">Days gone(This month):</string>
+    <string name="budget_spent">Budget spent:</string>
+    <string name="percent">%d%%</string>
+    <string name="item_price">Price:</string>
+    <string name="price_hint">Type the item price here</string>
+    <string name="item_name">Name:</string>
+    <string name="name_hint">Type the item name here</string>
+    <string name="date_text">Date:</string>
+    <string name="group_tag">Category:</string>
+    <string name="button_text">Add Purchase</string>
+    <string name="spent_mostly_on">Money spent mostly on:</string>
+    <string name="month_text">Purchases from %s %d</string>
+    <string name="purchases_item_name">Item</string>
+    <string name="purchases_item_price">%skr</string>
+    <string name="purchases_item_cat">Cat</string>
+    <string name="purchased_on">Purchased on:</string>
+    <string name="purchases_item_date">01/01</string>
+    <string name="monthly_total">Monthly Total: %skr</string>
+    <string name="change_budget">Budget</string>
+    <string name="current_budget">Budget: %d</string>
+</resources>
